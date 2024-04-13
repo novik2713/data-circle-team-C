@@ -41,7 +41,3 @@ To explore the findings and insights from our analysis, please refer to the `rep
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify and expand this README according to your specific project details and analysis findings. The structure provided above serves as a guideline for creating an informative README for a GitHub project focused on data analysis.
